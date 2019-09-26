@@ -12,3 +12,11 @@ Please see the files above for more resources ☝️ my basic details are below 
 **Pronounciation**: Clo-E Con-din (pronounced like London)
 <br>
 **Job Title**: Cloud Advocate at Microsoft
+<br>
+<br>
+<br>
+📝 **[My Bio](https://github.com/ChloeCodesThings/speaker-info/blob/master/bio)<br>**
+🤳 **[Social handles](https://github.com/ChloeCodesThings/speaker-info/blob/master/social%20handles.md)<br>**
+📸 **[Headshots & Images](https://github.com/ChloeCodesThings/speaker-info/tree/master/Headshots%20and%20Images)<br>**
+
+### Latest talks & features
